@@ -1,0 +1,8 @@
+/*! Place your custom styles here */
+article .article__body p,
+article .article__body ul {
+  font-size: 1.15714286em;
+  line-height: 1.68421053em;
+  font-weight: 500;
+  color: #0a0a0a;
+}
